@@ -86,6 +86,7 @@ private fun DetailsScreen(
     }
 }
 
+//idk why i dont use topbar
 @Composable
 private fun TopTitle(
     title: String,

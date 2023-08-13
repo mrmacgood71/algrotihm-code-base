@@ -90,8 +90,8 @@ dependencies {
     implementation project(":data")
     implementation project(":domain")
     implementation project(":navigation")
-    implementation project(":algorithmimpl")
-    implementation project(":algorithms")
+    implementation project(':feature_algorithmimpl')
+    implementation project(':feature_algorithms')
 
-    
+
 }

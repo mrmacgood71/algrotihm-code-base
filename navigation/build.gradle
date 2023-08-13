@@ -74,6 +74,6 @@ dependencies {
     kapt Dependencies.room_compiler
 
     implementation project(":core")
-    implementation project(":algorithms")
-    implementation project(":algorithmimpl")
+    implementation project(':feature_algorithms')
+    implementation project(':feature_algorithmimpl')
 }
