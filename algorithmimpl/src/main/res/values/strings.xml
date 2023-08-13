@@ -1,0 +1,11 @@
+<resources>
+    //TODO: Change name
+    <string name="app_name">Algorithm Code Base</string>
+    <string name="error_not_exists">Error while loading data. Data not exists</string>
+    <string name="error_unexpected">Error while loading data. Unexpected Error</string>
+    <string name="java_implementation">Java Implementation</string>
+    <string name="cpp_implementation">C++ Implementation</string>
+    <string name="python_implementation">Python Implementation</string>
+    <string name="back">Return to list</string>
+
+</resources>
